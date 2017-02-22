@@ -244,7 +244,6 @@ a {
   color: #fff;
   text-align: center;
   background-color: #3962AC;
-  background-image: linear-gradient(120deg, #3962AC, #DE9CD8); }
 
 .main-content {
   background-color: #fff;
@@ -258,6 +257,7 @@ a {
 
 img {
   margin-top: 1em;
+  width: 50%
 }
 
 a {
